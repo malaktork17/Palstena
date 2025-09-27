@@ -1,2 +1,53 @@
-# Palstena
-Learning project: Prototype web platform built as part of learning HTML/CSS in secondary school. Focused on awareness, culture, and practical solidarity actions for Palestine. منصة ويب أولية تم تطويرها كجزء من تعلم HTML/CSSفي الثانوية التكنولوجية. يركز على التوعية والثقافة وطرق الدعم العملي لفلسطين.
+# Palestine Support Platform 🌍🇵🇸
+
+## About the Project
+This is a **prototype web project** created to raise awareness and provide practical ways to support Palestine.  
+The site combines cultural and historical content with calls-to-action such as donations, boycotts, media support, and idea-sharing.
+
+> ⚠️ Note: This version is an early prototype and not fully functional. It was built as part of a learning journey in web development.
+
+---
+
+## Vision
+To create a digital hub that transforms awareness into measurable actions, supporting Palestine through education, solidarity, and grassroots initiatives.
+
+---
+
+## Features (Planned & Current)
+- 📖 Cultural & historical page about Palestine.  
+- 💡 Awareness resources.  
+- 🤝 Practical support actions (donation, boycott, blood donation, idea submission).  
+- 🌐 Multilingual support (Arabic/English).  
+
+---
+
+## Tech Stack
+- HTML, CSS.  
+- Future:js/ React / Node.js / MongoDB (or similar).  
+- Hosting: GitHub Pages (prototype).  
+
+---
+
+## Roadmap
+- [ ] Improve design and responsiveness.  
+- [ ] Add interactive donation/idea forms.  
+- [ ] Create dashboard for support actions impact.  
+- [ ] Expand content with verified resources.  
+
+---
+
+## Screenshots
+## Screenshots
+
+![Screenshot of the project](Palestina/screenshot1.png)
+
+---
+
+## عربي — نبذة عن المشروع
+هذا مشروع أولي (Prototype) يهدف إلى رفع الوعي حول فلسطين وتوفير طرق عملية للدعم مثل التبرع، المقاطعة، والدعم الإعلامي.  
+النسخة الحالية للتجربة والتعلم، وليست مكتملة.
+
+---
+
+## License
+This project is open for learning and non-commercial use.  
