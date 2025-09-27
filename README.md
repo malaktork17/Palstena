@@ -19,7 +19,7 @@ To create a digital hub that transforms awareness into measurable actions, suppo
 - 📖 Cultural & historical pages about Palestine.  
 - 💡 Awareness resources.  
 - 🤝 Practical support actions (donation, boycott, blood donation, idea submission).  
-- 🌐 Multilingual support (Arabic/English).  
+- 🌐Arabic.  
 
 ---
 
@@ -39,10 +39,7 @@ To create a digital hub that transforms awareness into measurable actions, suppo
 ---
 
 ## Screenshots
-*(Add screenshots of the site here, e.g., homepage, sections, etc.)*  
-Example:  
-
-
+![Homepage Screenshot](./screenshots/homepage.png)
 
 ---
 
