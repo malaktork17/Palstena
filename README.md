@@ -42,7 +42,7 @@ To create a digital hub that transforms awareness into measurable actions, suppo
 *(Add screenshots of the site here, e.g., homepage, sections, etc.)*  
 Example:  
 
-![Homepage Screenshot](./screenshots/homepage.png)
+
 
 ---
 
