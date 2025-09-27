@@ -4,6 +4,8 @@
 This is a **prototype web project** created to raise awareness and provide practical ways to support Palestine.  
 The site combines cultural and historical content with calls-to-action such as donations, boycotts, media support, and idea-sharing.
 
+🔗 **Live Demo:** [Palestine Support Platform](https://malaktork17.github.io/Palstena/)
+
 > ⚠️ Note: This version is an early prototype and not fully functional. It was built as part of a learning journey in web development.
 
 ---
@@ -13,8 +15,8 @@ To create a digital hub that transforms awareness into measurable actions, suppo
 
 ---
 
-## Features (Planned & Current)
-- 📖 Cultural & historical page about Palestine.  
+## Features
+- 📖 Cultural & historical pages about Palestine.  
 - 💡 Awareness resources.  
 - 🤝 Practical support actions (donation, boycott, blood donation, idea submission).  
 - 🌐 Multilingual support (Arabic/English).  
@@ -23,8 +25,8 @@ To create a digital hub that transforms awareness into measurable actions, suppo
 
 ## Tech Stack
 - HTML, CSS.  
-- Future:js/ React / Node.js / MongoDB (or similar).  
-- Hosting: GitHub Pages (prototype).  
+- Future: js / React / Node.js / MongoDB (or similar).  
+- Hosting: GitHub Pages.  
 
 ---
 
@@ -37,9 +39,10 @@ To create a digital hub that transforms awareness into measurable actions, suppo
 ---
 
 ## Screenshots
-## Screenshots
+*(Add screenshots of the site here, e.g., homepage, sections, etc.)*  
+Example:  
 
-![Screenshot of the project](Palestina/screenshot1.png)
+![Homepage Screenshot](./screenshots/homepage.png)
 
 ---
 
@@ -49,5 +52,10 @@ To create a digital hub that transforms awareness into measurable actions, suppo
 
 ---
 
+## Contributing
+This is an open project for learning purposes. Suggestions, ideas, and contributions are welcome. 🌟
+
+---
+
 ## License
-This project is open for learning and non-commercial use.  
+This project is open for **learning and non-commercial use**.  
